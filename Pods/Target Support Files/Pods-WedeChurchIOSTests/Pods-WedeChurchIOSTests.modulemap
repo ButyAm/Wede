@@ -1,0 +1,6 @@
+framework module Pods_WedeChurchIOSTests {
+  umbrella header "Pods-WedeChurchIOSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
